@@ -1,0 +1,13 @@
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/JobController.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/impl/JobServiceImpl.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/dto/JobDTO.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/JobService.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/clients/ReviewClient.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/JobmsApplication.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/AppConfig.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/clients/CompanyClient.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/external/Company.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/mapper/JobMapper.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/JobRepository.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/external/Review.java
+/Users/adarshpandey/IdeaProjects/jobms/src/main/java/org/devx/jobms/job/Job.java

@@ -1,0 +1,10 @@
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/CompanyController.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/CompanyService.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/CompanyRepository.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/Company.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/CompanymsApplication.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/messageconfig/ReviewMessageConsumer.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/messageconfig/RabbitMQConfiguration.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/clients/ReviewClient.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/impl/CompanyServiceImpl.java
+/Users/adarshpandey/IdeaProjects/companyms/src/main/java/org/devx/companyms/company/dto/ReviewMessage.java

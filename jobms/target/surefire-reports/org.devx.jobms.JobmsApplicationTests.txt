@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.devx.jobms.JobmsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.672 s -- in org.devx.jobms.JobmsApplicationTests
